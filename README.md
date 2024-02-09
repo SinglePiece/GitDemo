@@ -1,2 +1,2 @@
 # GitDemo
-rasika learning progress is okay
+rasika learning progress is good
